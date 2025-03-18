@@ -77,7 +77,7 @@ namespace Practice_11_Classes2
         public List<string> Product = new List<string> { "Bananas", "Apples"};
         public void GetTotalPrice()
         {
-
+            Console.WriteLine();
         }
 
     }
